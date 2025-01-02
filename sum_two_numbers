@@ -1,0 +1,12 @@
+Algoritmo "sum_two_numbers"
+Var
+n1, n2, x: real
+Inicio
+escreval ("We're going to sum two numbers!")
+escreva ("Tell me a number: ")
+leia (n1)
+escreva ("Tell me other: ")
+leia (n2)
+x <- n1 + n2
+escreva ("The result is:", x)
+Fimalgoritmo
