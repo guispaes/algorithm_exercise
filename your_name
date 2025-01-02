@@ -1,0 +1,8 @@
+Algoritmo "your_name"
+Var
+name: caractere
+Inicio
+escreval ("Hello dear friend, what's your name?!")
+leia (name)
+escreva (name, "! It's a such beautiful name! It's a pleasure to meet you.")
+Fimalgoritmo
