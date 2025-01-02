@@ -1,0 +1,9 @@
+Algoritmo "hello_world"
+Var
+msg: caractere
+Inicio
+
+msg <- ("Hello World!")
+escreva(msg)
+
+Fimalgoritmo
