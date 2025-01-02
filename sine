@@ -1,0 +1,10 @@
+algoritmo "sine"
+var
+  a, s: real
+inicio
+      escreval("Gimme a angle and i'll tell you his sine!")
+      escreva("Angle: ")
+      leia (a)
+      s <- sen(grauprad(a))
+      escreva ("The sine of ", a ,"° is : ", s)
+fimalgoritmo
